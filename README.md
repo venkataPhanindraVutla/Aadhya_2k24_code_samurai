@@ -14,7 +14,7 @@ We crafted a website to address the problems of hostel students to Hostel Author
 # Technologies used
 Html,CSS,Flask,SQL Alchemy, JavaScript
 # Changes brought by this idea
-<table border=0>
+<table border="0px">
 <tr>
 <td>
 # Before
