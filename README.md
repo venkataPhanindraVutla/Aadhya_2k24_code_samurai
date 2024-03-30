@@ -18,7 +18,7 @@ Html,CSS,Flask,SQL Alchemy, JavaScript
 <table>
 <tr>
 <td>
-&ensp &ensp &ensp &ensp Before
+$~~~~~~~~~~~~~~~~~~~~~$ Before
 </td>
 <td>
 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp After
