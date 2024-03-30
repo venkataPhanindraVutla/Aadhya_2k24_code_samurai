@@ -14,3 +14,4 @@ We crafted a website to address the problems of hostel students to Hostel Author
 # Technologies used
 Html,CSS,Flask,SQL Alchemy, JavaScript
 # Changes brought by this idea
+![After](https://github.com/venkataPhanindraVutla/Aadhya_2k24_code_samurai/assets/144616413/be4b28be-ae87-4802-92d6-210d337a792b)
