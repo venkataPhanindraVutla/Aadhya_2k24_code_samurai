@@ -15,10 +15,10 @@ We crafted a website to address the problems of hostel students to Hostel Author
 Html,CSS,Flask,SQL Alchemy, JavaScript
 # Changes brought by this idea
 <center>
-<table style="text-align:center">
+<table>
 <tr>
 <td>
-Before
+&nbsp &nbsp &nbsp Before
 </td>
 <td>
 After
