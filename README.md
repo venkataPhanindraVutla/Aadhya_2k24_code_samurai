@@ -16,7 +16,7 @@ Html,CSS,Flask,SQL Alchemy, JavaScript
 # Changes brought by this idea
 <table style="border:none; border-collapse:collapse">
 <tr>
-<td>
+<td style="border:none;">
 # Before
 </td>
 <td>
