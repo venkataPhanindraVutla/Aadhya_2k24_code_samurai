@@ -19,3 +19,21 @@ Html,CSS,Flask,SQL Alchemy, JavaScript
 
 <img src = "./images/After.png" float ="left" width = 300px>
 
+<table>
+<tr>
+<td>
+# Before
+</td>
+<td>
+# After
+</td>
+</tr>
+<tr>
+<td>
+<img src = "./images/before.png" float="left" width = 300px>
+</td>
+<td>
+<img src = "./images/After.png" float ="left" width = 300px>
+</td>
+</tr>
+</table>
