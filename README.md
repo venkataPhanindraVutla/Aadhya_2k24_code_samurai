@@ -5,9 +5,9 @@ We crafted a website to address the problems of hostel students to Hostel Author
 # Appraoch/ How The website works:
 • Opens the home page then it asks for whether he is student or Hostel authorities  and then sign in( Id and Password)<br>
 • It opens a dashboard where user can see his previous complaints and their status, his profile and option to “Raise a complaint”<br>
-• After clicking , it will open a form where user has to Select following options<br>
-                  1.Whether the problem is related to whole floor or Student<br>
-                  2.Under floor problems he can select what his problem related to,from options like Electrical,Wifi,House Kepping,Drinking water,Washrooms etc.<br>
-                  3.Under Student he can select problems like Electrical,Windows,Doors,others.<br>
+• After clicking , it will open a form where user has to Select following options:<br>
+--->1.Whether the problem is related to whole floor or Student<br>
+--->2.Under floor problems he can select what his problem related to,from options like Electrical,Wifi,House Kepping,Drinking water,Washrooms etc.<br>
+--->3.Under Student he can select problems like Electrical,Windows,Doors,others.<br>
 • Then he can also express his problems in a Text Area given.<br>
 • After clicking submit the problem is raised and is visible for the Hostel Authorities.<br>
