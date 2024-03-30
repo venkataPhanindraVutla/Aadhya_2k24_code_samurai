@@ -21,7 +21,7 @@ Html,CSS,Flask,SQL Alchemy, JavaScript
 $~~~~~~~~~~~~~~~~~~~~~$ Before
 </td>
 <td>
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp After
+$~~~~~~~~~~~~~~~~~~~~~$ After
 </td>
 </tr>
 <tr>
