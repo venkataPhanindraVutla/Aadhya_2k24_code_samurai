@@ -11,3 +11,5 @@ We crafted a website to address the problems of hostel students to Hostel Author
         3.Under Student he can select problems like Electrical,Windows,Doors,others.<br>
     • Then he can also express his problems in a Text Area given.<br>
     • After clicking submit the problem is raised and is visible for the Hostel Authorities.<br
+# Technologies used:
+Html,CSS,Flask,SQL Alchemy, JavaScript
