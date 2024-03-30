@@ -14,13 +14,14 @@ We crafted a website to address the problems of hostel students to Hostel Author
 # Technologies used
 Html,CSS,Flask,SQL Alchemy, JavaScript
 # Changes brought by this idea
-<table border="0px">
+<center>
+<table style={align-items:center;}>
 <tr>
 <td>
-# Before
+Before
 </td>
 <td>
-# After
+After
 </td>
 </tr>
 <tr>
@@ -32,3 +33,4 @@ Html,CSS,Flask,SQL Alchemy, JavaScript
 </td>
 </tr>
 </table>
+</center>
