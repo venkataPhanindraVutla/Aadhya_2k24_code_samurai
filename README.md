@@ -17,4 +17,4 @@ Html,CSS,Flask,SQL Alchemy, JavaScript
 # Before
 ![before](https://github.com/venkataPhanindraVutla/Aadhya_2k24_code_samurai/assets/144616413/4744239b-eb46-4519-87e0-a70bebd8da0f)
 # After
-![After](https://github.com/venkataPhanindraVutla/Aadhya_2k24_code_samurai/assets/144616413/be4b28be-ae87-4802-92d6-210d337a792b)
+<img src = "./images/before.png" height = 300px>
