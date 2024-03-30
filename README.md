@@ -18,10 +18,10 @@ Html,CSS,Flask,SQL Alchemy, JavaScript
 <table>
 <tr>
 <td>
-&nbsp &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp &nbsp &nbsp &nbsp &nbspBefore
+&nbsp &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Before
 </td>
 <td>
-After
+&nbsp &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  After
 </td>
 </tr>
 <tr>
