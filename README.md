@@ -16,4 +16,4 @@ Html,CSS,Flask,SQL Alchemy, JavaScript
 # Changes brought by this idea
 # Before
 <img src = "./images/before.png" float="left" height = 300px>
-<img src = "./images/After.png" height = 300px>
+<img src = "./images/After.png" float ="left" height = 300px>
