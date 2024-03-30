@@ -18,7 +18,7 @@ Html,CSS,Flask,SQL Alchemy, JavaScript
 <table>
 <tr>
 <td>
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Before
+&emsp &emsp &emsp &emsp Before
 </td>
 <td>
 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp After
