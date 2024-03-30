@@ -15,7 +15,7 @@ We crafted a website to address the problems of hostel students to Hostel Author
 Html,CSS,Flask,SQL Alchemy, JavaScript
 # Changes brought by this idea
 <center>
-<table style={align-items:center;}>
+<table style="align-items:center;">
 <tr>
 <td>
 Before
