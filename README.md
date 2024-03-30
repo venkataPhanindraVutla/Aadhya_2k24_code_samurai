@@ -15,6 +15,6 @@ We crafted a website to address the problems of hostel students to Hostel Author
 Html,CSS,Flask,SQL Alchemy, JavaScript
 # Changes brought by this idea
 # Before
-![before](https://github.com/venkataPhanindraVutla/Aadhya_2k24_code_samurai/assets/144616413/4744239b-eb46-4519-87e0-a70bebd8da0f)
-# After
 <img src = "./images/before.png" height = 300px>
+# After
+<img src = "./images/After.png" height = 300px>
