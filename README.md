@@ -14,12 +14,7 @@ We crafted a website to address the problems of hostel students to Hostel Author
 # Technologies used
 Html,CSS,Flask,SQL Alchemy, JavaScript
 # Changes brought by this idea
-# Before
-<img src = "./images/before.png" float="left" width = 300px>
-
-<img src = "./images/After.png" float ="left" width = 300px>
-
-<table>
+<table style="border:none">
 <tr>
 <td>
 # Before
