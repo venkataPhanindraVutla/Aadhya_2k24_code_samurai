@@ -26,10 +26,10 @@ $~~~~~~~~~~~~~~~~~~~~~$ After
 </tr>
 <tr>
 <td>
-<img src = "./images/before.png" float="left" width = 300px>
+<img src = "./images/before.png" width = 300px>
 </td>
 <td>
-<img src = "./images/After.png" float ="left" width = 300px>
+<img src = "./images/After.png" width = 300px>
 </td>
 </tr>
 </table>
